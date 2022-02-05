@@ -1,0 +1,28 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    background-color: rgb(75, 122, 28);
+    color: crimson;
+    font-size: 100px;
+    font-family: sans-serif;
+    text-align: center;
+}
+p {
+    font-size: 50px;
+    color: darkblue;
+    font-family: monospace;
+}
+h2 {
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgreen;
+}
+li {
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkolivegreen;
+}
+img {
+padding-left: 400px;
+}
